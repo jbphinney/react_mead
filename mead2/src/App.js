@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React change :D another change
+          React change :D and now to test clean rebuild
         </p>
         <a
           className="App-link"
